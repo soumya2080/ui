@@ -1,0 +1,142 @@
+body {
+    background-color: #e5e5e5;
+}
+
+.container {
+    padding: 20px 20px;
+}
+
+.he {
+    vertical-align: top;
+    white-space: normal;
+}
+
+.tb {
+    display: table;
+    margin: 0 auto;
+    position: relative;
+    word-wrap: break-word;
+}
+
+.jw {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.Ic {
+    width: 520px;
+}
+
+.jw>.Yp {
+    margin-bottom: 20px;
+}
+
+.Xa {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    background-color: #e5e5e5;
+    border-bottom: none;
+    font-size: 13px;
+    line-height: 1.4;
+    margin: 10px 0 20px 0;
+    padding: 0 0 0 0;
+    outline: none;
+    position: relative;
+    word-wrap: break-word;
+}
+
+.Yp {
+    background-color: #e5e5e5;
+}
+
+.ge,
+.zq>.je,
+.GA>.ut {
+    opacity: 1;
+    position: relative;
+    visibility: visible;
+    z-index: auto;
+}
+
+.Ee {
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    background-color: #fff;
+    border: 1px solid #d8d8d8;
+    border-bottom-width: 2px;
+    border-top-width: 0;
+    vertical-align: top;
+}
+
+.ve {
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    background-color: #fff;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    vertical-align: top;
+}
+
+.ys {
+    margin-bottom: 20px;
+    padding: 0 20px 0 20px;
+    position: relative;
+}
+
+.hE {
+    float: left;
+    margin: 20px 15px 0 0;
+    padding: 0;
+}
+
+.Uk {
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+}
+
+img {
+    border: 0;
+}
+
+.wy {
+    margin: 0 0 15px 61px;
+    padding: 23px 0 0 0;
+    text-overflow: ellipsis;
+}
+
+.zi {
+    margin: 0;
+    border: 0;
+    font-size: 14px;
+    font-weight: normal;
+    unicode-bidi: normal;
+}
+
+.Ve,
+.Ve .dk,
+.gK .dk {
+    color: #999;
+    display: inline-block;
+    font-size: 12px;
+}
+
+.PL {
+    float: none;
+}
+
+.pf {
+    margin: 0 0 0 0;
+    padding: 0 20px 0 20px;
+    text-overflow: ellipsis;
+}
+
+.dn {
+    color: #404040;
+    font-size: 13px;
+    line-height: 1.4;
+    min-height: 0;
+    padding: 0 0 20px 0;
+    overflow: hidden;
+}
